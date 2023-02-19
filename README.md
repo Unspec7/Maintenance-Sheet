@@ -39,3 +39,7 @@ VIN decoding tab only works for BMW's. The sheet will work fine for all other br
 ### There's a bug!
 
 Feel free to report here. I may or may not fix it. We'll see.
+
+## Credit 
+
+[u/flanmorrison](https://www.reddit.com/user/flanmorrison/) for the original sheet, reddit post [HERE](https://www.reddit.com/r/BMW/comments/1080p9q/i_made_a_bmw_maintenance_tracker_on_google_sheets/).
