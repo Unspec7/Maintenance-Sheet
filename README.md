@@ -1,5 +1,9 @@
 # Maintenance-Sheet-README
 
+## Getting Started / Intro
+
+First: File > Make a Copy
+
 **BRIGHT YELLOW** means safe to user edit, and actually need to be user edited. This is where the vast majority of your data goes.
 
 The orange "Production Date" cell autopopulates, but is safe to manually update if you know your vehicle's actual production date. If you don't know, leave it alone.
