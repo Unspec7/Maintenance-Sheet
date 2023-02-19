@@ -10,7 +10,7 @@ The orange "Production Date" cell autopopulates, but is safe to manually update 
 
 Overall, the only field in Summary that you should be regularly touching is *Current Mileage*
 
-#### What if an item has not been maintained yet?
+### What if an item has not been maintained yet?
 
 If an item in the maintenance tracker has no log entry, then the sheet makes the assumption that the item is original from the factory. This means that it'll assume the mileage is 0, and date is the production date/model year. Basically, don't worry about it, everything will be fine.
 
