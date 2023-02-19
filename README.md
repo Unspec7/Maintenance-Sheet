@@ -30,7 +30,7 @@ This is where you enter the intervals for all the maintenance items you wish to 
 
 - All time based intervals are based on years. If you need months, you'll need to do decimals (e.g. 6mo = 0.5y). I have not tested super low month count options, bugs might occur. 
 - If time or mileage is not applicable for one of that item's intervals, "***N/A***" must be used for the interval that is not applicable. If you use blank instead of "N/A", it will break the tracking for that type of interval. Sorry.
-- If you wish to add an item, it is easiest to just copy paste an entire existing row into a blank one, and then just update the Type, Service, and Intervals manually. Make sure to include the table with all the X's in the copy paste as well!
+- If you wish to add an item, it is easiest to just copy paste an entire existing row into a blank one, and then just update the Type, Service, and Intervals manually. Make sure to include the part of the row with all the X's in the copy paste as well!
 - If you wish to remove an item, clear the entire row. Deleting the row works but removes an entire row from the sheet as a whole, and is overkill. Just clearing that row is enough.
 
 The table to the right of the numbers autopopulated, don't worry about editing it.
