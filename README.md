@@ -33,7 +33,7 @@ This is where you enter the intervals for all the maintenance items you wish to 
 - If you wish to add an item, it is easiest to just copy paste an entire existing row into a blank one, and then just update the Type, Service, and Intervals manually. Make sure to include the part of the row with all the X's in the copy paste as well!
 - If you wish to remove an item, clear the entire row. Deleting the row works but removes an entire row from the sheet as a whole, and is overkill. Just clearing that row is enough.
 
-The table to the right of the numbers autopopulated, don't worry about editing it.
+The table to the right of the numbers autopopulate, don't worry about editing it.
 
 ## Helpers
 
